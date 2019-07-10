@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bin_xor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bin_xor_jar</output-path>
+    <root id="archive" name="bin_xor.jar">
+      <element id="module-output" name="bin_xor" />
+    </root>
+  </artifact>
+</component>
